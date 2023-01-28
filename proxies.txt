@@ -1,0 +1,7 @@
+##Here comes your proxy list, as seen:
+
+145.239.85.58
+46.4.96.137
+...
+..
+.
